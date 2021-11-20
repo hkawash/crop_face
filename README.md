@@ -1,4 +1,4 @@
-# Cat images
+# Crop faces
 
 OpenCV で顔を検出し，検出された各矩形領域を 64x64 のファイルへ
 
